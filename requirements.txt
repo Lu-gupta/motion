@@ -1,0 +1,7 @@
+mediapipe>=0.10.14
+opencv-python>=4.9
+numpy>=1.26,<2.0
+PySide6>=6.6
+pywin32>=306
+uiautomation>=2.0.28
+pytest>=8.0
